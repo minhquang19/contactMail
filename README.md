@@ -1,8 +1,8 @@
-#Contact Us Form Package
+##Contact Us Form Package
 
-## This will send email to admin and save contact query in DataBase
+# This will send email to admin and save contact query in DataBase
 
-#Installation
+##Installation
 ```
 composer require minhquang/contact
 ```
